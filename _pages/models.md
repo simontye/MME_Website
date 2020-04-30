@@ -9,6 +9,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-```{r shiny-app}
-knitr::include_app("https://simontye.shinyapps.io/2020_mme_model/")
-```
+<iframe id="example1" src="https://simontye.shinyapps.io/2020_mme_model/"
+style="border: non; width: 100%; height: 500px"
+frameborder="0">
+</iframe>
